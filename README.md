@@ -12,8 +12,8 @@ Um Edtor de imagens em flutter, a principal funcionalidade é a mesclagem de ima
 
 **Tags**: Offline, FileHandler, ByteManipulation, AdvancedGestures
 
- * **Inicio**: 02/23
- * **Fim**:
+ * **Inicio**: 23/02/2024
+ * **Fim**: 
  * **Linhas**:
 
 
@@ -22,11 +22,11 @@ https://github.com/boginni/WS-Work-Teste-Mobile
 
 Um desafio para o processo seletivo
 
-**Tags**: 
+**Tags**: Flutter Modular, Offline, Sqlite
 
- * **Inicio**: 03/07
- * **Fim**:
- * **Linhas**:
+ * **Inicio**: 07/03/2024
+ * **Fim**: 12/03/2024
+ * **Linhas**: 9271
 
 
 ### 
