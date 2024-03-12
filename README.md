@@ -1,7 +1,7 @@
 # Desafios De Flutter (2024)
 Minha Lista de desafios em flutter para 2024
 
-**Progresso**: 0/50
+**Progresso**: 1/50
 
 ## Projetos
 
