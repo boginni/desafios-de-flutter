@@ -22,13 +22,23 @@ https://github.com/boginni/WS-Work-Teste-Mobile
 
 Um desafio para o processo seletivo
 
-**Tags**: Flutter Modular, Offline, Sqlite
+**Tags**: FlutterModular, Offline, Sqlite, CleanCode
 
  * **Inicio**: 07/03/2024
  * **Fim**: 12/03/2024
  * **Linhas**: 9271
 
 
+### BS Shop App
+
+
+**Referencia**: https://www.figma.com/file/EbBSvJSulWI0rEXcYYLyjp/BShop?type=design&node-id=0-1&mode=design 
+
+**Tags**: 
+
+ * **Inicio**: 
+ * **Fim**:
+ * **Linhas**:
 
 
 
