@@ -34,7 +34,7 @@ Um desafio para o processo seletivo
 
 **Referencia**: https://www.figma.com/file/EbBSvJSulWI0rEXcYYLyjp/BShop?type=design&node-id=0-1&mode=design 
 
-**Tags**: 
+**Tags**: Style, StaticUI
 
  * **Inicio**: 
  * **Fim**:
@@ -47,7 +47,7 @@ Um desafio para o processo seletivo
 
 
 
-### 
+### Template
 
 **Tags**: 
 
