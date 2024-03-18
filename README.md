@@ -28,6 +28,8 @@ Um desafio para o processo seletivo
  * **Fim**: 12/03/2024
  * **Linhas**: 9271
 
+**Exemplos**: 
+ * https://github.com/viniciusoliverrs/ws-work-teste-mobile/
 
 ### BS Shop App
 
